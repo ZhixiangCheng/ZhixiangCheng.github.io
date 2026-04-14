@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Pei Liu
+      value: Zhixiang Cheng
     - name: Date of Birth
-      value: 15th October 1994
+      value: 7th April 2001
     - name: Languages
       value: Chinese, English
 
@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: Hunan University
       year: 1905
       description:
         - Description 1.
